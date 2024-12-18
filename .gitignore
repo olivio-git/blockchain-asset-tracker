@@ -1,13 +1,10 @@
-# Ignora nodemodules
 node_modules/
 
-# Ignora archivos de configuración de entorno
 .env
 .env.development.local
 .env.test.local
 .env.production.local
 
-# Otros archivos y carpetas innecesarios
 /build
 /coverage
 .DS_Store
